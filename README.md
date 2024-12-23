@@ -67,4 +67,4 @@ The objective of this analysis is to explore user behavior, cooking preferences,
 - Offer meal kits with multiple components (e.g., DIY appetizers, main dishes, and desserts) to encourage longer cooking durations.
 - Promote premium meal kits or holiday-themed bundles (e.g., "Festive Feast Kit") that naturally require longer preparation times.
 ### 6. Data-Driven Decisions
--- **Continuous Monitoring** Regularly monitor meal preferences and customer feedback to adapt to changing trends. Use this data to make informed decisions about menu changes, marketing strategies, and operational adjustments.
+- **Continuous Monitoring** Regularly monitor meal preferences and customer feedback to adapt to changing trends. Use this data to make informed decisions about menu changes, marketing strategies, and operational adjustments.
