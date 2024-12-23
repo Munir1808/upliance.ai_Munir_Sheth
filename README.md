@@ -1,5 +1,3 @@
-# Upliance.ai_Munir_Sheth
-
 # Detailed Report Summary: User Behavior, Cooking Preferences, and Order Trends
 
 # 1. Introduction
